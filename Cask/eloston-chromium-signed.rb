@@ -1,4 +1,4 @@
-cask "eloston-chromium" do
+cask "eloston-chromium-signed" do
     arch arm: "arm64", intel: "x86-64"
   
     version "126.0.6478.61-1.1"
